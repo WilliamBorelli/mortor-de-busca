@@ -1,15 +1,18 @@
 #Motor de busca
 
 Um simples motor de busca feito como Projeto Profissional Interdisciplinar do 6º Semestre do Curso de Ciência da Computação da Faculdade Sumaré.
-Isto é um programa de linha de comando escrito em Python. Os inputs que você precisará fornecer quando pedido são os seguintes:
 
-Página Semente - Essa é a página, da qual ele começará a rastrear a web. Forneça a url de uma boa página semente, que tem muitos links nela, dessa forma você pode rastrear dentro daquelas páginas, e novamente, rastrear daquelas páginas dentro de outras páginas.
+Isto é um programa de linha de comando escrito em Python. A grande maioria dos Sistemas Operacionais baseados em Unix já vem com o interpretador Python na versão 2.X instalado por padrão. Para Windows, basta fazer o download em: https://www.python.org/download/releases/2.7.2/
 
-Exemplo: https://stackoverflow.com/questions/50779613/how-to-show-a-google-satelite-button-in-google-maps
+Os inputs que você precisará fornecer quando solicitado, são os seguintes:
+
+Página Semente - Essa é a página, da qual ele começará a rastrear a web. Forneça a URL de uma boa página semente, que tem muitos links nela, dessa forma você pode rastrear dentro daquelas páginas, e novamente, rastrear daquelas páginas dentro de outras páginas.
+
+Exemplo: https://webdevacademy.com.br/tutoriais/bootstrap-como-comecar/
 
 Termo de busca: O termo que você quer buscar. Em breve, adicionaremos suporte para busca por multiplas palavras, mas por enquanto, use apenas uma palavra.
 
-Exemplo: How
+Exemplo: Bootstrap
 
 Profundidade máxima – O número máximo de links para se rastrear. Levarão 3 segundos para o primeiro link e 6 segundos para o segundo e continuará dobrando. Então, um máximo de 10 links é mais do que suficiente.
 
