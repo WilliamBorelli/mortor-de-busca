@@ -1,7 +1,5 @@
 #Motor de busca
 
-Um simples motor de busca feito como Projeto Profissional Interdisciplinar do 6º Semestre do Curso de Ciência da Computação da Faculdade Sumaré.
-
 Isto é um programa de linha de comando escrito em Python. A grande maioria dos Sistemas Operacionais baseados em Unix já vem com o interpretador Python na versão 2.X instalado por padrão. Para Windows, basta fazer o download em: https://www.python.org/download/releases/2.7.2/
 
 Os inputs que você precisará fornecer quando solicitado, são os seguintes:
